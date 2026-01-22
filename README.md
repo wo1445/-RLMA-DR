@@ -1,8 +1,8 @@
-# RLMA-DR
+# RLMF-DR
 
 This is the PyTorch implementation for paper "Relation-Level Diffusion with multi-level Attention on Heterogeneous Graphs for Drug Repositioning".
 ## Environment:
-The codes of RLMA-DR are implemented and tested under the following development environment:
+The codes of RLMF-DR are implemented and tested under the following development environment:
 -  Python 3.8.19
 -  cudatoolkit 11.5
 -  pytorch 1.10.0
