@@ -1,6 +1,7 @@
 # RLMF-DR
 
-This is the PyTorch implementation for paper "Relation-Level Diffusion with multi-level Attention on Heterogeneous Graphs for Drug Repositioning".
+This is the PyTorch implementation for paper "Relation-Level Graph Diffusion with Multi-Relational Hierarchical Fusion for Drug Repositioning in Heterogeneous Biological
+Networks".
 ## Environment:
 The codes of RLMF-DR are implemented and tested under the following development environment:
 -  Python 3.8.19
